@@ -1,0 +1,39 @@
+input[type=text],select{
+  width: 100%;
+  padding: 14px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form{
+  width: 400px;
+  background:  #808080;
+  padding:20px;
+  border-radius: 5px;
+  display: block;
+  margin: 1rem auto;
+}
+
+input{
+  display: block;
+}
+
+button{
+  display: block;
+  padding: 5px;
+  width: 100%;
+  border: none;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+
+body{
+    height: 625px;
+    color: #FFFFFF ;
+    background: #dec8ab ;
+ 
+}
